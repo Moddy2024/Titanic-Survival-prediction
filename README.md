@@ -1,2 +1,2 @@
-# Titanic
+# Titanic top 5%
 The accuracy in all of my submission file is minimum of 75% in Kaggle but the best one was hardvoting_withoutrf which got me in the top 5% of all the people in the Titanic Competetion in Kaggle this submission is the ensemble of XGBoost and Logistic Regression with hardvoting which means when both of the model says that a certian person survived then only survived will be predicted for it . RandomForest seems to be overfitting because we don't have a very big dataset. When comparing them alone Logistic Regression works best then XGBoost then at last Random Forest so after ensembling the best two the ensembled model works even  well.
