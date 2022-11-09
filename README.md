@@ -1,4 +1,4 @@
-# Titanic
+# Titanic top 5%
 This is the most famous Kaggle [competition](https://www.kaggle.com/c/titanic) in which you have to use machine learning to create a model that predicts which passenger can survive the Titanic shipwreck or not. I have done a lot of data engineering and feature engineering to clean and to increase the accuracy of my models. 
 
 I have trained 3 models :
